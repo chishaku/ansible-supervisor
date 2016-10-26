@@ -6,8 +6,8 @@ Set up the latest or a specific version of supervisor in Ubuntu systems.
 
 #### Requirements
 
-* `pip` (will not installed)
-* `python` (will be installed)
+* `pip` (will not be installed)
+* `python` (will not be installed)
 
 #### Variables
 
